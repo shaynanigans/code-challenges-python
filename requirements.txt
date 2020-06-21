@@ -1,0 +1,3 @@
+# Here I've listed the main requirements you need to install to run the code.
+# Coverage is a library used to assess the code coverage from test cases. All other dependencies didn't require installing.
+coverage
