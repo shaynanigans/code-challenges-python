@@ -12,17 +12,13 @@ For each of the programs, it is necessary to navigate to the folder in the Termi
 `python3 solutions/boggle_solver.py`
 
 Prints if a given word can be found on a given Boggle board (pre-defined in main method).
-- Didn't do I/O due to time.
-- Didn't fully validate supplied letters against English alphabet, only non alpha characters checked for.
-- Didn't fully validate board size due to time.
-- Didn't write test cases for all methods due to time.
+- TODO: Update to include I/O
 
 #### 2. Merge K-LinkedLists:
 `python3 solutions/merge_linked_lists.py`
 
 Prints the result of merging K-linked lists (pre-defined in main method)
 - TODO: Update to include I/O
-
 
 #### 3. Sudoku:
 `python solutions/sudoku_solver.py`
